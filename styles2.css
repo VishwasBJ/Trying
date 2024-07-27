@@ -1,8 +1,7 @@
-input{
-    width: 500px;
-    align-items: center;
-}
 img{
-    width: 300px;
-    align-items: center;
+  display: block;
+  width: 200px;
+}
+input{
+  width: 300px;
 }

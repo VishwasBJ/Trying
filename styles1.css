@@ -1,9 +1,18 @@
-body {
-    background-color:yellow ;
-    color: blue;
-    font-size: 20px;
-    font-weight: lighter;
-    text-align: center;
-    margin-top: 5px;
-    
+.main{
+   
+    margin-left: 700px;
+    display:block;
+    width: 400px;
+
 }
+.main1{
+    margin-top: 150px;
+    margin-left: 700px;
+    display :block;
+    width: 300px;
+
+}
+
+
+
+
