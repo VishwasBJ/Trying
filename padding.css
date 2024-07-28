@@ -1,0 +1,14 @@
+.card{
+    color: rgb(255, 0, 200);
+    background-attachment: fixed;
+    background-color: aqua;
+    width: 300px;
+    margin-top: 50px;
+   
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid rgb(0, 0, 0);
+    border-radius: 150px;
+    padding: 50px;
+
+}
