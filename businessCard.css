@@ -1,0 +1,12 @@
+body{
+    margin: 20px;
+}
+.pic1{
+    width: 350px;
+}
+.card{
+    border: 1px dotted blue;
+    padding: 20px;
+    background-color: rgb(182, 236, 240);
+    display: inline-flexbox;
+}
