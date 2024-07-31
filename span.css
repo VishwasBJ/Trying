@@ -1,0 +1,23 @@
+body{
+    margin: 50px;
+    background-color: rgb(216, 230, 216);
+    text-align: center;
+    
+   
+       
+        
+      }
+      
+
+.hi{
+    font-family: "Rye", serif;
+    font-weight: 400;
+    background:rgb(39, 129, 107) ;
+    border-color: 5px solid rgb(209, 118, 209);
+    
+        
+    
+}
+.cta{
+    color: aqua;
+}
